@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2&display=swap');
+
+.App {
+  background-color: #E3E2E1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: 'Exo 2', sans-serif;
+
+  
+}
+
+.coin-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8745F4;
+  width: 25%;
+  height: 200px;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.coin-container p {
+  margin: 5px;
+}
